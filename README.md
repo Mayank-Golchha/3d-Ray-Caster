@@ -19,7 +19,6 @@ This project is a simple yet powerful **3D + 2D ray caster** written in **Python
 
 - `W` / `A` / `S` / `D` – Move Forward / Left / Backward / Right  
 - `←` / `→` – Rotate view  
-- *(Edit this section if you have more controls)*
 
 ## 🖼️ Demo
 
