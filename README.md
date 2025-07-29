@@ -23,7 +23,9 @@ This project is a simple yet powerful **3D + 2D ray caster** written in **Python
 
 ## 🖼️ Demo
 
-*Add screenshots or a GIF here showing both the 3D and 2D views.*
+https://github.com/user-attachments/assets/0b01d823-d37a-475e-bfd6-5f4fb3d2dbff
+
+
 
 ## 🚀 Getting Started
 
